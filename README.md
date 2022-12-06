@@ -1,4 +1,4 @@
-[![N|Solid](https://github.com/billiedark/LavaAPI/blob/main/LavaAPI_v2.png?raw=true)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://github.com/DIMFLIX-OFFICIAL/LAVAPI/blob/main/LAVAPI%20Banner.png?raw=true)](https://nodesource.com/products/nsolid)
 
 
 Библиотека LAVAPI была создана, дабы облегчить работу c официалным [API](https://dev.lava.ru/) платежной системы LAVA.
