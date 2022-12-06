@@ -1,3 +1,6 @@
+[![N|Solid](https://github.com/billiedark/LavaAPI/blob/main/LavaAPI_v2.png?raw=true)](https://nodesource.com/products/nsolid)
+
+
 Библиотека LAVAPI была создана, дабы облегчить работу c официалным [API](https://dev.lava.ru/) платежной системы LAVA.
 В ней представлены все методы, присутствующие в официальной документации.
   
