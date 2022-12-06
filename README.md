@@ -51,7 +51,7 @@ api = LAVAPI(TOKEN)
 invoice = api.invoice_create(sum = 10.00, wallet_to = "YOR WALLET NUMBER", comment = "LAVAPI invoice_create test!")
 
 # Получить информацию о счете
-invoice_check = api.invoice_info(id = invoice["id"])
+invoice_check = api.is_paid(id = invoice["id"])
 
 
 
