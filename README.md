@@ -6,13 +6,21 @@
 В данной библиотеке представлены все методы, присутствующие в официальной документации:
 
 wallet_list - Список кошельков
+
 invoice_create - Выставить счёт
+
 is_paid - Получить информацию о счёте
+
 invoice_set_webhook - Установка URL для WebHook
+
 withdraw_create - Создание вывода
+
 withdraw_info - Информация о выводе
+
 transfer_create - Создание перевода
+
 transfer_info - Информация о переводе
+
 transfer_info - Список всех транзакций
 
 
