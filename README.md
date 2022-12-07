@@ -1,4 +1,4 @@
-[![N(https://github.com/DIMFLIX-OFFICIAL/LAVAPI/blob/main/LAVAPI%20Banner.png?raw=true)]]
+![alt text](https://github.com/DIMFLIX-OFFICIAL/LAVAPI/blob/main/LAVAPI%20Banner.png?raw=true)
 
 
 Библиотека LAVAPI была создана, дабы облегчить работу c официалным [API](https://dev.lava.ru/) платежной системы LAVA.
