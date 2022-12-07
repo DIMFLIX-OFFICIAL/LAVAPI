@@ -6,7 +6,7 @@
   
 ## Возможности
 
-wallet_list - Список кошельков
+wallet_list - Список кошельков<br>
 invoice_create - Выставить счёт
 is_paid - Получить информацию о счёте
 invoice_set_webhook - Установка URL для WebHook
