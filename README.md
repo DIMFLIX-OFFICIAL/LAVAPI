@@ -7,14 +7,14 @@
 ## Возможности
 
 wallet_list - Список кошельков<br>
-invoice_create - Выставить счёт
-is_paid - Получить информацию о счёте
-invoice_set_webhook - Установка URL для WebHook
-withdraw_create - Создание вывода
-withdraw_info - Информация о выводе
-transfer_create - Создание перевода
-transfer_info - Информация о переводе
-transactions_list - Список всех транзакций
+invoice_create - Выставить счёт<br>
+is_paid - Получить информацию о счёте<br>
+invoice_set_webhook - Установка URL для WebHook<br>
+withdraw_create - Создание вывода<br>
+withdraw_info - Информация о выводе<br>
+transfer_create - Создание перевода<br>
+transfer_info - Информация о переводе<br>
+transactions_list - Список всех транзакций<br>
 
 
 
